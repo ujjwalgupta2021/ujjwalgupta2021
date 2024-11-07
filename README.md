@@ -26,6 +26,15 @@ Here are some ideas to get you started:
 </div>
 
 ## Hacktoberfest 2024 Badges
+<div style='display:flex; align-items:center; gap: 10px; align='center'><a href="https://holopin.io/@ujjwalgupta">
+  <img src="./assets/Hacktoberfest_2024/1.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2024/2.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2024/3.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2024/4.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2024/5.webp" width="100px" height="100px" />
+</div>
+
+## Hacktoberfest 2023 Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://holopin.io/@ujjwalgupta">
   <img src="./assets/Hacktoberfest_2023/1.webp" width="100px" height="100px" />
   <img src="./assets/Hacktoberfest_2023/2.webp" width="100px" height="100px" />
@@ -36,15 +45,6 @@ Here are some ideas to get you started:
   <img src="./assets/Hacktoberfest_2023/7.webp" width="100px" height="100px" />
   <img src="./assets/Hacktoberfest_2023/8.webp" width="100px" height="100px" />
   <img src="./assets/Hacktoberfest_2023/9.webp" width="100px" height="100px" />
-</div>
-
-## Hacktoberfest 2023 Badges
-<div style='display:flex; align-items:center; gap: 10px; align='center'><a href="https://holopin.io/@ujjwalgupta">
-  <img src="./assets/Hacktoberfest_2024/1.webp" width="100px" height="100px" />
-  <img src="./assets/Hacktoberfest_2024/2.webp" width="100px" height="100px" />
-  <img src="./assets/Hacktoberfest_2024/3.webp" width="100px" height="100px" />
-  <img src="./assets/Hacktoberfest_2024/4.webp" width="100px" height="100px" />
-  <img src="./assets/Hacktoberfest_2024/5.webp" width="100px" height="100px" />
 </div>
 
 ## Hacktoberfest 2022 Badges
