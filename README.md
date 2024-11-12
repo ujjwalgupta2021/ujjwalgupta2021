@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 -->
 
 <details>	
-<summary><b>🏆GSSOC Badges</b></summary><br>
+<summary><b>🏆GSSOC Badges</b></summary>
   
 ## GSSOC(24) Badges
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>	
-<summary><b>🏆Hacktoberfest Badges</b></summary><br>
+<summary><b>🏆Hacktoberfest Badges</b></summary>
   
 ## Hacktoberfest 2024 Badges
 <div style='display:flex; align-items:center; gap: 10px; align='center'><a href="https://holopin.io/@ujjwalgupta">
