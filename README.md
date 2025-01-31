@@ -6,7 +6,7 @@
 
 <img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
-<p align="left"> <a href="https://twitter.com/_ujjwalgupta" target="blank"><img src="https://img.shields.io/twitter/follow/_ujjwalgupta?logo=twitter&style=for-the-badge" alt="_ujjwalgupta" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ujjwalgupta2021" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalgupta2021?logo=twitter&style=for-the-badge" alt="ujjwalgupta2021" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_ujjwalgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_ujjwalgupta" height="30" width="40" /></a>
+<a href="https://twitter.com/ujjwalgupta2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalgupta2021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ujjwalgupta2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwalgupta2021" height="30" width="40" /></a>
 <a href="https://instagram.com/ujjwalgupta2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ujjwalgupta2001" height="30" width="40" /></a>
 </p>
