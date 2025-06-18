@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Ujjawal</h1>
+<h1 align="center">Hello 👋, I'm Ujjwal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalgupta2021&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalgupta2021" /> </p>
