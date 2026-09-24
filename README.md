@@ -66,6 +66,20 @@ Here are some ideas to get you started:
 
 <details>	
 <summary><b>🏆Hacktoberfest Badges</b></summary>
+
+## Hacktoberfest 2025 Badges
+<div style='display:flex; align-items:center; gap: 10px; align='center'><a href="https://holopin.io/@ujjwalgupta">
+  <img src="./assets/Hacktoberfest_2025/1.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2025/2.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2025/3.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2025/4.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2025/5.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2025/6.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2025/7.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2025/8.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2025/9.webp" width="100px" height="100px" />
+  <img src="./assets/Hacktoberfest_2025/10.webp" width="100px" height="100px" />
+</div>
   
 ## Hacktoberfest 2024 Badges
 <div style='display:flex; align-items:center; gap: 10px; align='center'><a href="https://holopin.io/@ujjwalgupta">
