@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalgupta2021&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalgupta2021" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-ruddy.vercel.app/?username=ujjwalgupta2021&theme=light" alt="ujjwalgupta2021" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://nirzak-trophies.vercel.app/?username=ujjwalgupta2021&theme=light" alt="ujjwalgupta2021" /></a> </p>
 
 <img align="right" width="370" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif">
 
